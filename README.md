@@ -19,3 +19,9 @@ Data attributes include: <br />
 2. Here is a stacked area chart that shows the total number of space missions over the years where each company is represented by a different color. <br />
 
 [![image](https://user-images.githubusercontent.com/51784083/94752748-1d648900-035a-11eb-8bbe-6845a96b9ca2.png)](https://vizhub.com/naisargidave/565903655f0e4171af91a310afc13e55)
+
+## Tasks:
+
+* How do the number of missions for each company vary over the years?
+* What percent of the total number of missions were a sucess and what percent of the missions failed?
+* Which location had the most number of successful missions and which one had the most number of failed missions?
