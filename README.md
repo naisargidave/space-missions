@@ -25,3 +25,13 @@ Data attributes include: <br />
 * How do the number of missions for each company vary over the years?
 * What percent of the total number of missions were a sucess and what percent of the missions failed?
 * Which location had the most number of successful missions and which one had the most number of failed missions?
+
+## Sketch:
+
+Below is a rough sketch of the world map that shows a pie chart which represents the aggregated mission status for different countries. This visualization would be helpful in determining which location had the most number of successful missions and which one had the most number of failed missions.
+
+![image](https://user-images.githubusercontent.com/51784083/94753273-b9db5b00-035b-11eb-8174-09014a869b7a.png)
+
+## Uncertainty:
+
+Creating a map visualization is a challenge in itself and the above shown sketch combines that with pie charts for different countries. 
