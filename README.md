@@ -9,3 +9,9 @@ Data attributes include: <br />
 -> Status Rocket stating if it is Active or Retired <br />
 ->  Rocket <br />
 -> Status Mission stating if the mission was a success or a failure <br />
+
+## Prototypes
+
+1. Below is a stacked bar chart that shows the Number of Space Missions by Company color coded by the status of the mission.
+![image](https://user-images.githubusercontent.com/51784083/94752416-2b65da00-0359-11eb-8a70-958394a4aa75.png)
+
