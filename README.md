@@ -34,4 +34,4 @@ Below is a rough sketch of the world map that shows a pie chart which represents
 
 ## Uncertainty:
 
-Creating a map visualization is a challenge in itself and the above shown sketch combines that with pie charts for different countries. 
+Creating a map visualization is a challenge in itself and the above shown sketch combines that with pie charts for different countries. Developing the above shown sketch as a full blown visualization is a challenge.
