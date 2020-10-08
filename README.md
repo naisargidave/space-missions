@@ -5,10 +5,10 @@ Data attributes include: <br />
 * Company Name that is associated with the Space Mission <br />
 * Location of the launch <br />
 * Date and Time of the launch <br />
-* Details describing details about the mission <br />
-* Status Rocket stating if it is Active or Retired <br />
-*  Rocket <br />
-* Status Mission stating if the mission was a success or a failure <br />
+* Details describing the mission <br />
+* Status Rocket stating whether Rocket is Active or Retired <br />
+* Rocket <br />
+* Status Mission stating whether the mission was a success or a failure <br />
 
 ## Prototypes
 
@@ -35,3 +35,18 @@ Below is a rough sketch of the world map that shows a pie chart which represents
 ## Uncertainty:
 
 Creating a map visualization is a challenge in itself and the above shown sketch combines that with pie charts for different countries. Developing the above shown sketch as a full blown visualization is a challenge.
+
+## Deliverables schedule
+
+| Task      | Deadline |
+| ----------- | ----------- |
+| Develop and Refine the First Chart | 14 Oct 2020 |
+|  Develop and Refine the Second Chart | 21 Oct 2020 |
+| Develop and Refine the Third Chart | 28 Oct 2020 |
+| Integrate all the charts and provide navigation between them  | 04 Nov 2020 |
+| Check the documentation in all the visualizations | 04 Nov 2020 |
+
+## Interaction
+
+* Add a Dropdown to select the attribute for x-axis of the chart.
+* Add Brushing technique where the user is able to select the year range in the chart.
