@@ -50,3 +50,23 @@ Creating a map visualization is a challenge in itself and the above shown sketch
 
 * Add a Dropdown to select the attribute for x-axis of the chart.
 * Add Brushing technique where the user is able to select the year range in the chart.
+
+## Project Outcome 
+
+1. The stacked bar chart shows the Number of Space Missions by Company/Country/Status Rocket color coded by the Status of the Mission. The dropdown selection is used to determine the x-axis of the visualization. 
+
+[![image](https://user-images.githubusercontent.com/51784083/97826682-3c737500-1c90-11eb-9aba-58a7ff10cbae.png)](https://vizhub.com/naisargidave/db10fd5f23ba404eb4bfdd578053a5fd)
+
+
+2. Number of space missions by country are displayed on the word map. The size of the circle is proportionate to the number of missions for that country. The histogram executes brusing where only the year range selected is displayed on the map.
+
+[![image](https://user-images.githubusercontent.com/51784083/97826725-5a40da00-1c90-11eb-976d-b0838e888ddf.png)](https://vizhub.com/naisargidave/a3e37b300fb54af2b25d98e2389d2d1f)
+
+
+3. The scatter plot shows the number of space missions trend from the year 1955 to 2020 for USA, China, Kazakhstan and Russia where hovering over the color legend highlights the trend for that country.  
+
+[![image](https://user-images.githubusercontent.com/51784083/97826753-747ab800-1c90-11eb-9d78-18300f54c789.png)](https://vizhub.com/naisargidave/af177a5813b14088baaf2a987141bee0)
+
+## Future Work
+
+Combine the map visualization with a pie chart showing the number of missions by mission status for each country. 
